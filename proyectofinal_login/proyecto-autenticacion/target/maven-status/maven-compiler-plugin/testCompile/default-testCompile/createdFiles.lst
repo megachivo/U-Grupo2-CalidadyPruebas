@@ -1,0 +1,4 @@
+com/universidad/autenticacion/controllers/LoginControllerTest.class
+com/universidad/autenticacion/e2e/SeleniumTest.class
+com/universidad/autenticacion/services/ValidacionServiceTest.class
+com/universidad/autenticacion/services/AutenticacionServiceTest.class
