@@ -108,3 +108,4 @@ Algoritmo de hashing utilizado para proteger las contraseñas. Las contraseñas 
 4.  **Password:** (Dejar vacío)
 5.  Click en **Connect**.
 
+
